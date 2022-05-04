@@ -9,7 +9,7 @@ generic (	ramA: integer:=8;
 				oS	: integer:=16
 				); 
   port(
-    c_clk			 	: in std_logic;
+    	 c_clk			 	: in std_logic; -- this is a working clock
 	 
 	 num_Layers			: in std_logic_vector(7 downto 0); -- can hold 256 layers
 	 
@@ -81,7 +81,7 @@ subtype stor_lower is integer range oS-1 downto 0;
 
 component storage_datapath is-- connections can be hard coded locations in the con ram 
   port(
-    stor_clk			 	: in std_logic;
+    	 stor_clk			 	: in std_logic; -- This clock is not used in storage datapath for timing purposes
 	 ramSelect		: in std_logic_vector(3 downto 0); -- 0 = in, 1= weights, 2 = con, 3 = activate, 4 = out 
 	 address			: in std_logic_vector(ramA-1 downto 0);
 	 
@@ -97,10 +97,10 @@ end component storage_datapath;
 component pLayer 
 port
 (
-	perl_clk        		:in    	std_logic;
+	perl_clk        		:in    	std_logic; -- clock is not used for timing purposes
 
 	reg_wr				:in		std_logic;
-	reg_addr				:in  		std_logic_vector(layA-1 downto 0);  
+	reg_addr			:in  		std_logic_vector(layA-1 downto 0);  
 	reg_input			:in    	std_logic_vector(K-1 downto 0); 
 	
 	
@@ -115,7 +115,7 @@ end component pLayer;
 
   component RAM
 	port (
-		ram_clk		: in std_logic;
+		ram_clk		: in std_logic;	-- clock is not used for timing purposes
 		WR			: in std_logic; 
 		ADDR		: in std_logic_vector (7 downto 0); 
 		DIN		: in std_logic_vector (23 downto 0); 
