@@ -1,0 +1,974 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/simulation/modelsim
+valtdq_dqs2_acv_connect_to_hard_phy_cyclonev
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1651519368
+!i10b 1
+!s100 L@LBY8?m2K81I=]<dLF[?0
+IcCbGim@57l8?B?19cbOTQ0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 altdq_dqs2_acv_connect_to_hard_phy_cyclonev_sv_unit
+S1
+R0
+Z4 w1651519137
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altdq_dqs2_acv_connect_to_hard_phy_cyclonev.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altdq_dqs2_acv_connect_to_hard_phy_cyclonev.sv
+L0 19
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z6 !s108 1651519367.000000
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altdq_dqs2_acv_connect_to_hard_phy_cyclonev.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altdq_dqs2_acv_connect_to_hard_phy_cyclonev.sv|
+!i113 1
+Z7 o-sv -work hps
+Z8 !s92 -sv -work hps +incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules
+Z9 tCvgOpt 0
+valtera_avalon_sc_fifo
+R2
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+ICF>12157jTF4gzNPdj5Nk0
+R3
+R0
+Z10 w1651519105
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_avalon_sc_fifo.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_avalon_sc_fifo.v
+Z11 L0 21
+R5
+r1
+!s85 0
+31
+Z12 !s108 1651519368.000000
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z13 o-vlog01compat -work hps
+Z14 !s92 -vlog01compat -work hps +incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules
+R9
+valtera_mem_if_dll_cyclonev
+R1
+R2
+!i10b 1
+!s100 [9G>WEm;j6E]1F8H81dZV1
+Ij4@AC0_4?2T4^N1inl>Sm3
+R3
+!s105 altera_mem_if_dll_cyclonev_sv_unit
+S1
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_dll_cyclonev.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_dll_cyclonev.sv
+Z15 L0 23
+R5
+r1
+!s85 0
+31
+R12
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_dll_cyclonev.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_dll_cyclonev.sv|
+!i113 1
+R7
+R8
+R9
+valtera_mem_if_hard_memory_controller_top_cyclonev
+R1
+R2
+!i10b 1
+!s100 PV@kBzX4E7SXn_NC4_1fM3
+I<CnohDJPmcKoRNAc6j8Bf0
+R3
+!s105 altera_mem_if_hard_memory_controller_top_cyclonev_sv_unit
+S1
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_hard_memory_controller_top_cyclonev.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_hard_memory_controller_top_cyclonev.sv
+L0 18
+R5
+r1
+!s85 0
+31
+R12
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_hard_memory_controller_top_cyclonev.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_hard_memory_controller_top_cyclonev.sv|
+!i113 1
+R7
+R8
+R9
+valtera_mem_if_hhp_qseq_synth_top
+Z16 !s110 1651519366
+!i10b 1
+!s100 N_QfhY9G55ERAG1GzlAo@2
+IX3i3<VT<;P^]bAm@nfFNm2
+R3
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_hhp_qseq_synth_top.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_hhp_qseq_synth_top.v
+L0 15
+R5
+r1
+!s85 0
+31
+Z17 !s108 1651519366.000000
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_hhp_qseq_synth_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_hhp_qseq_synth_top.v|
+!i113 1
+R13
+R14
+R9
+valtera_mem_if_oct_cyclonev
+R1
+R2
+!i10b 1
+!s100 AcnzJmTb5Jz0V@UURnjO60
+IO>;nM6i1a=KgJf4e2l@^81
+R3
+!s105 altera_mem_if_oct_cyclonev_sv_unit
+S1
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_oct_cyclonev.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_oct_cyclonev.sv
+R15
+R5
+r1
+!s85 0
+31
+R12
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_oct_cyclonev.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_mem_if_oct_cyclonev.sv|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_address_alignment
+R1
+R2
+!i10b 1
+!s100 ;A9^i^d]cR@BAQXEG>h_<3
+IGK4oz;K^ioYP?:dDYefg91
+R3
+!s105 altera_merlin_address_alignment_sv_unit
+S1
+R0
+R10
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_address_alignment.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_address_alignment.sv
+L0 26
+R5
+r1
+!s85 0
+31
+R12
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_address_alignment.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_address_alignment.sv|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_arb_adder
+R1
+R2
+!i10b 1
+!s100 1Jn[a;@5nZmTN?DFKQNzj2
+IV_YJaL`1QQGg5ne6cR?US2
+R3
+Z18 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R0
+R10
+Z19 8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_arbitrator.sv
+Z20 Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_arbitrator.sv
+L0 228
+R5
+r1
+!s85 0
+31
+R12
+Z21 !s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_arbitrator.sv|
+Z22 !s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_arbitrator
+R1
+R2
+!i10b 1
+!s100 NQTehjm2fNQROUMUzShGa1
+ITh<S7nXe8nRoIHfg>Z`?:3
+R3
+R18
+S1
+R0
+R10
+R19
+R20
+L0 103
+R5
+r1
+!s85 0
+31
+R12
+R21
+R22
+!i113 1
+R7
+R8
+R9
+valtera_merlin_axi_master_ni
+R1
+Z23 !s110 1651519369
+!i10b 1
+!s100 3_AI>HiSXNYzWC0UYFJ8?0
+IQ:N[@NBCmKHGNP5cSj3ok2
+R3
+!s105 altera_merlin_axi_master_ni_sv_unit
+S1
+R0
+R10
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_axi_master_ni.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_axi_master_ni.sv
+L0 27
+R5
+r1
+!s85 0
+31
+R12
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_axi_master_ni.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_axi_master_ni.sv|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_burst_adapter
+R1
+R23
+!i10b 1
+!s100 OCc70X^k:B?GW6i71n`L_3
+IcH^XiVne[>Z?l67Y:eNiG0
+R3
+!s105 altera_merlin_burst_adapter_sv_unit
+S1
+R0
+R10
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_adapter.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_adapter.sv
+R11
+R5
+r1
+!s85 0
+31
+Z24 !s108 1651519369.000000
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_adapter.sv|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_burst_adapter_13_1
+R1
+R23
+!i10b 1
+!s100 iQDJAL[b9z>XeokOb35D]1
+IPSS]6b0DkD@<5fE]26J[P0
+R3
+Z25 !s105 altera_merlin_burst_adapter_13_1_sv_unit
+S1
+R0
+R10
+Z26 8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_adapter_13_1.sv
+Z27 Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_adapter_13_1.sv
+L0 264
+R5
+r1
+!s85 0
+31
+R24
+Z28 !s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_adapter_13_1.sv|
+Z29 !s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_adapter_13_1.sv|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_burst_adapter_adder
+R1
+R23
+!i10b 1
+!s100 cJB8e]Mn>T^mE[9iEE1jk1
+In]9]BOB1:de;E62X1=2LG3
+R3
+R25
+S1
+R0
+R10
+R26
+R27
+L0 55
+R5
+r1
+!s85 0
+31
+R24
+R28
+R29
+!i113 1
+R7
+R8
+R9
+valtera_merlin_burst_adapter_burstwrap_increment
+R1
+R23
+!i10b 1
+!s100 ILP^RoOQ^]Ef]XAJeF<SX0
+IJ;[Zm@Z@FKK2bi2SARSgH0
+R3
+R25
+S1
+R0
+R10
+R26
+R27
+Z30 L0 40
+R5
+r1
+!s85 0
+31
+R24
+R28
+R29
+!i113 1
+R7
+R8
+R9
+valtera_merlin_burst_adapter_min
+R1
+R23
+!i10b 1
+!s100 5OK?oF?>S0i7IYQi<IKhS1
+IDCiSScFMMeN8dgW8lcL511
+R3
+R25
+S1
+R0
+R10
+R26
+R27
+L0 98
+R5
+r1
+!s85 0
+31
+R24
+R28
+R29
+!i113 1
+R7
+R8
+R9
+valtera_merlin_burst_adapter_subtractor
+R1
+R23
+!i10b 1
+!s100 3nMfY`gC_:azzfSULAX8f2
+I45W3TCI0:9nFP0Sh6Cdi=3
+R3
+R25
+S1
+R0
+R10
+R26
+R27
+L0 77
+R5
+r1
+!s85 0
+31
+R24
+R28
+R29
+!i113 1
+R7
+R8
+R9
+valtera_merlin_burst_uncompressor
+R1
+R23
+!i10b 1
+!s100 f1?Rb<=9U?R9LJoHl;7>T3
+IjI1Gc`]4f97ThkIB:9BIL1
+R3
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R0
+R10
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_uncompressor.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_uncompressor.sv
+R30
+R5
+r1
+!s85 0
+31
+R24
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_slave_agent
+R1
+R23
+!i10b 1
+!s100 ePZN1d?B062J`OBb?blff3
+IK4lUd;607>JiMJi2<MK>V2
+R3
+!s105 altera_merlin_slave_agent_sv_unit
+S1
+R0
+R10
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_slave_agent.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_slave_agent.sv
+L0 34
+R5
+r1
+!s85 0
+31
+R24
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_slave_translator
+R1
+R23
+!i10b 1
+!s100 k`9[YAn_dLTkg;GE`mOb61
+I35;l3CLMo[QC3ja?zfBMh1
+R3
+!s105 altera_merlin_slave_translator_sv_unit
+S1
+R0
+R10
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_slave_translator.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_slave_translator.sv
+L0 35
+R5
+r1
+!s85 0
+31
+R24
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R7
+R8
+R9
+valtera_merlin_traffic_limiter
+R1
+R23
+!i10b 1
+!s100 0h4;DR_^c13j]SXILa7d?1
+Ij]cV`H3CzH=0lBB_Xc[j[0
+R3
+!s105 altera_merlin_traffic_limiter_sv_unit
+S1
+R0
+R10
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_traffic_limiter.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_traffic_limiter.sv
+L0 49
+R5
+r1
+!s85 0
+31
+R24
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_traffic_limiter.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_merlin_traffic_limiter.sv|
+!i113 1
+R7
+R8
+R9
+valtera_reset_controller
+R16
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+I2=9mQDgPX?Ti[E5Q5K0eg3
+R3
+R0
+Z31 w1651519104
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_reset_controller.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+R17
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_reset_controller.v|
+!i113 1
+R13
+R14
+R9
+valtera_reset_synchronizer
+R16
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+Ib^[m[ndn1dc5eoQBi53QH2
+R3
+R0
+R31
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_reset_synchronizer.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_reset_synchronizer.v
+L0 24
+R5
+r1
+!s85 0
+31
+R17
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/altera_reset_synchronizer.v|
+!i113 1
+R13
+R14
+R9
+vhps
+R16
+!i10b 1
+!s100 4zSd>Ud=VT3YMo7BzY5<o2
+IifgaVd2^[@Z7l9kJ:jzeB2
+R3
+R0
+w1651519080
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/hps.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/hps.v
+L0 6
+R5
+r1
+!s85 0
+31
+!s108 1651519365.000000
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/hps.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/hps.v|
+!i113 1
+R13
+!s92 -vlog01compat -work hps +incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps
+R9
+vhps_addr_Cons
+R16
+!i10b 1
+!s100 ak0?LITMdZGH>CPUlG0Ce1
+I?U=cH_9GPkeHH;V3TdnmD1
+R3
+R0
+Z32 w1651519081
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_addr_cons.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_addr_cons.v
+R11
+R5
+r1
+!s85 0
+31
+R17
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_addr_cons.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_addr_cons.v|
+!i113 1
+R13
+R14
+R9
+nhps_addr_@cons
+vhps_hps_0
+R16
+!i10b 1
+!s100 Ad^lX[P:=IE@OgV>hhzi30
+IDoS^XmhT_05fYdELR4HHE2
+R3
+R0
+w1651519085
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R17
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0.v|
+!i113 1
+R13
+R14
+R9
+vhps_hps_0_fpga_interfaces
+R1
+!s110 1651519370
+!i10b 1
+!s100 X9<59dGX[`8Ra^fJ>;:nJ0
+I;I_3SZSRcej7cb<@5ZITH3
+R3
+!s105 hps_hps_0_fpga_interfaces_sv_unit
+S1
+R0
+R31
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0_fpga_interfaces.sv
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0_fpga_interfaces.sv
+L0 14
+R5
+r1
+!s85 0
+31
+!s108 1651519370.000000
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0_fpga_interfaces.sv|
+!s90 -reportprogress|300|-sv|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0_fpga_interfaces.sv|
+!i113 1
+R7
+R8
+R9
+vhps_hps_0_hps_io
+R16
+!i10b 1
+!s100 1kn[jDC0C@;0R3MC^QOgd2
+Ihioh?GDPN[eFXDeLAUaTA2
+R3
+R0
+R10
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0_hps_io.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0_hps_io.v
+L0 9
+R5
+r1
+!s85 0
+31
+R17
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0_hps_io.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_hps_0_hps_io.v|
+!i113 1
+R13
+R14
+R9
+vhps_in_Cons
+R16
+!i10b 1
+!s100 7?07hoZBLS^JSZWl;5hjf0
+Ii6TWkJB76YXVNk2fhZdBA2
+R3
+R0
+Z33 w1651519086
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_in_cons.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_in_cons.v
+R11
+R5
+r1
+!s85 0
+31
+R17
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_in_cons.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_in_cons.v|
+!i113 1
+R13
+R14
+R9
+nhps_in_@cons
+vhps_mm_interconnect_0
+R16
+!i10b 1
+!s100 Si?=:04BD?J6iQnZDRBWa2
+IBF><1>BiJ;;OGm8ZQ396Y0
+R3
+R0
+R31
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_mm_interconnect_0.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+R17
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_mm_interconnect_0.v|
+!i113 1
+R13
+R14
+R9
+vhps_mm_interconnect_0_avalon_st_adapter
+Z34 !s110 1651519367
+!i10b 1
+!s100 m_`65KkB?_8iVU?]h7I?k0
+IL9Wgg;=1[1INzi[=6IoMk2
+R3
+R0
+w1651519106
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_mm_interconnect_0_avalon_st_adapter.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+R17
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R13
+R14
+R9
+vhps_out_Cons
+R34
+!i10b 1
+!s100 jA]`kZOTF]`iF3=3I[D7H1
+Ig;ELFI`5oUJBWojOgm2@X2
+R3
+R0
+R33
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_out_cons.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_out_cons.v
+R11
+R5
+r1
+!s85 0
+31
+R6
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_out_cons.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_out_cons.v|
+!i113 1
+R13
+R14
+R9
+nhps_out_@cons
+vhps_Prop
+R16
+!i10b 1
+!s100 `V2K;C`^nlbMR]z[G1ldF3
+INGTYP361db[RX;_WijOA63
+R3
+R0
+R32
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_prop.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_prop.v
+R11
+R5
+r1
+!s85 0
+31
+R17
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_prop.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_prop.v|
+!i113 1
+R13
+R14
+R9
+nhps_@prop
+vhps_sdram
+R34
+!i10b 1
+!s100 E?h:ed?5j[D;c=?NoGdPK3
+IKOl]ROG5U1e9BK@?NHTJ<0
+R3
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram.v
+L0 9
+R5
+r1
+!s85 0
+31
+R6
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram.v|
+!i113 1
+R13
+R14
+R9
+vhps_sdram_p0_acv_hard_addr_cmd_pads
+R34
+!i10b 1
+!s100 JDiQYD`mV<S3ZbNU2oLkD2
+IX0Zf2D=XjKe@H[QZTI`5Y1
+R3
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_addr_cmd_pads.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_addr_cmd_pads.v
+Z35 L0 17
+R5
+r1
+!s85 0
+31
+R6
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_addr_cmd_pads.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_addr_cmd_pads.v|
+!i113 1
+R13
+R14
+R9
+vhps_sdram_p0_acv_hard_io_pads
+R34
+!i10b 1
+!s100 SfJ5bje>CFhFCXN8?j91<1
+ILzzaMgVfR;dBRn0LR<ge81
+R3
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_io_pads.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_io_pads.v
+R35
+R5
+r1
+!s85 0
+31
+R6
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_io_pads.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_io_pads.v|
+!i113 1
+R13
+R14
+R9
+vhps_sdram_p0_acv_hard_memphy
+R34
+!i10b 1
+!s100 YZmZZ30=2fY45]I4U[QfM1
+IbYaR><>QDU>6W==ic1<^30
+R3
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_memphy.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_memphy.v
+R11
+R5
+r1
+!s85 0
+31
+R6
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_memphy.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_hard_memphy.v|
+!i113 1
+R13
+R14
+R9
+vhps_sdram_p0_acv_ldc
+R34
+!i10b 1
+!s100 SK2LP`?Ld8_6n1Ui2PFoz1
+I55BC14?5IZ>lo]3zhz=RG1
+R3
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_ldc.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_ldc.v
+R35
+R5
+r1
+!s85 0
+31
+R6
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_ldc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_acv_ldc.v|
+!i113 1
+R13
+R14
+R9
+vhps_sdram_p0_altdqdqs
+R34
+!i10b 1
+!s100 Xk]PjMGV;<WQjf6YEGK3:1
+I5f1a16h1N<amji_EGnng40
+R3
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_altdqdqs.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_altdqdqs.v
+R35
+R5
+r1
+!s85 0
+31
+R6
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_altdqdqs.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_altdqdqs.v|
+!i113 1
+R13
+R14
+R9
+vhps_sdram_p0_clock_pair_generator
+R34
+!i10b 1
+!s100 XFAX];RG805f0mE=G4m7f3
+I0I73OFRCn;gb@KK<?^e8S3
+R3
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_clock_pair_generator.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_clock_pair_generator.v
+L0 28
+R5
+r1
+!s85 0
+31
+R6
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_clock_pair_generator.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_clock_pair_generator.v|
+!i113 1
+R13
+R14
+R9
+vhps_sdram_p0_generic_ddio
+R34
+!i10b 1
+!s100 MEaB39e4Y6@9cRdAAXSbL3
+I]WiXe:MM]_jH39dc?5^n?3
+R3
+R0
+R4
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_generic_ddio.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_generic_ddio.v
+R35
+R5
+r1
+!s85 0
+31
+R6
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_generic_ddio.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sdram_p0_generic_ddio.v|
+!i113 1
+R13
+R14
+R9
+vhps_sel_Storage
+R34
+!i10b 1
+!s100 [ZkWo[654H`V=YAb;D;hO0
+I;F5E=P6ogOm[X@g5@L6D@2
+R3
+R0
+R33
+8c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sel_storage.v
+Fc:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sel_storage.v
+R11
+R5
+r1
+!s85 0
+31
+R6
+!s107 c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sel_storage.v|
+!s90 -reportprogress|300|-vlog01compat|-work|hps|+incdir+c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules|c:/users/sparkles/documents/rowan/senior/spring/complexdig/project/neuralnetworks/db/ip/hps/submodules/hps_sel_storage.v|
+!i113 1
+R13
+R14
+R9
+nhps_sel_@storage

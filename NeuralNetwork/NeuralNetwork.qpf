@@ -1,0 +1,6 @@
+DATE = "12:25:28 April 03, 2022"
+QUARTUS_VERSION = "16.0.2"
+
+# Revisions
+
+PROJECT_REVISION = "NeuralNetwork"

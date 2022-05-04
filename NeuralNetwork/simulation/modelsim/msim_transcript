@@ -1,0 +1,208 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# ERROR: No extended dataflow license exists
+# do NeuralNetwork_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/adder_16bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:50:39 on May 02,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/adder_16bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity adder_16bit
+# -- Compiling architecture rtl of adder_16bit
+# End time: 16:50:40 on May 02,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/multiplier_8bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:50:40 on May 02,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/multiplier_8bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity multiplier_8bit
+# -- Compiling architecture rtl of multiplier_8bit
+# End time: 16:50:40 on May 02,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/perceptron.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:50:40 on May 02,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/perceptron.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity perceptron
+# -- Compiling architecture rtl of perceptron
+# End time: 16:50:40 on May 02,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/storage_datapath.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:50:40 on May 02,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/storage_datapath.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity storage_datapath
+# -- Compiling architecture behavioral of storage_datapath
+# End time: 16:50:40 on May 02,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/RAM.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:50:40 on May 02,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/RAM.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity RAM
+# -- Compiling architecture RAMBEHAVIOR of RAM
+# End time: 16:50:40 on May 02,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/layerConnections.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:50:40 on May 02,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/layerConnections.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity layerConnections
+# -- Compiling architecture behavioral of layerConnections
+# End time: 16:50:40 on May 02,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/reg_file.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:50:40 on May 02,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/reg_file.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity reg_file
+# -- Compiling architecture behavioral of reg_file
+# End time: 16:50:40 on May 02,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/pLayer.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:50:40 on May 02,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/pLayer.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity pLayer
+# -- Compiling architecture rtl of pLayer
+# End time: 16:50:40 on May 02,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlib hps
+# ** Warning: (vlib-34) Library already exists at "hps".
+# vmap hps hps
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap hps hps 
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/LayerConnections_tb.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:50:40 on May 02,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/LayerConnections_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity LayerConnections_tb
+# -- Compiling architecture tb of LayerConnections_tb
+# -- Loading entity layerConnections
+# End time: 16:50:40 on May 02,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -L hps -voptargs="+acc"  LayerConnections_tb
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -L hps -voptargs=""+acc"" LayerConnections_tb 
+# Start time: 16:50:40 on May 02,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.layerconnections_tb(tb)
+# Loading work.layerconnections(behavioral)
+# Loading work.ram(rambehavior)
+# Loading work.storage_datapath(behavioral)
+# Loading work.player(rtl)
+# Loading work.reg_file(behavioral)
+# Loading work.perceptron(rtl)
+# Loading work.multiplier_8bit(rtl)
+# Loading work.adder_16bit(rtl)
+# ** Warning: (vsim-8684) No drivers exist on out port /layerconnections_tb/uut/testOutput(23 downto 8), and its initial value is not used.
+# Therefore, simulation behavior may occur that is not in compliance with
+# the VHDL standard as the initial values come from the base signal /layerconnections_tb/test_out(23 downto 8).
+# 
+# add wave *
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: Sparkles  Hostname: DESKTOP-D03R2H9  ProcessID: 17576
+#           Attempting to use alternate WLF file "./wlft9afjwv".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft9afjwv
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/reusableLayer/layer_reg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/stor/outputRam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/stor/activationRam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/stor/connectionRam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/stor/weightRam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/stor/inputRam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /layerconnections_tb/uut/cons
+# ** Failure: Test: OK
+#    Time: 5740 ns  Iteration: 0  Process: /layerconnections_tb/line__50 File: C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/LayerConnections_tb.vhd
+# Break in Process line__50 at C:/Users/Sparkles/Documents/Rowan/Senior/Spring/ComplexDig/Project/NeuralNetworks/LayerConnections_tb.vhd line 290
+# End time: 21:35:40 on May 03,2022, Elapsed time: 28:45:00
+# Errors: 0, Warnings: 25

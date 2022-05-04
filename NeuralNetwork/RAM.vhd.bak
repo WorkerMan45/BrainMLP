@@ -1,0 +1,13 @@
+ibrary IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_numeric_std.all;
+
+entity RAM is
+	generic (K: integer:=8; -- number of bits per word
+				A: integer:=8); -- number of address bits; N = 2^A
+	port (
+		WR: in std_logic; -- active high write enable
+		ADDR: in std_logic_vector (W-1 downto 0); -- RAM address
+		DIN: in std_logic_vector (K-1 downto 0); -- write data
+		DOUT: out std_logic_vector (K-1 downto 0)); -- read data
+end entity RAM;
