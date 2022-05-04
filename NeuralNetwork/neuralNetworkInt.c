@@ -74,6 +74,7 @@ uint32_t *outStor;
 
 int fd;
 
+// Defining spaces that will be used to offset the arrays
 int space11 = 13;
 int space1_10 = 12;
 int space2_9 = 11;
@@ -81,6 +82,7 @@ int space3_8 = 10;
 int space4_8 = 9;
 int space5_6_7 = 8;
 
+// defining size of arrays
 int size1 = 13;
 int size2 = 15;
 int size3 = 17;
@@ -93,6 +95,7 @@ int size9 = 15;
 int size10 = 13;
 int size11 = 11;
 
+//defining the arrays
 char arr1[13]   = { 'O','O','O','O','O','O','O','O','O','O','O','O','O'};
 char arr2[15]   = { 'O','O','O','O','O','O','O','O','O','O','O','O','O','O','O'};
 char arr3[17]   = { 'O','O','O','O','O','O','O','O','O','O','O','O','O','O','O','O','O'};
@@ -112,7 +115,7 @@ void display() {
 
    
     printf("\n");
-    
+    //offsetting the arrays
     for( i = 0; i < space1_10; i++ ){
         printf(" ");
         if(i == space1_10 - 1)
@@ -432,7 +435,7 @@ int main(int argc, const char **argv){
         *addrStor = i;
         usleep(500);
         printf("This is Storage out: %d, Address: %d \n",*outStor,*addrStor );
-        
+        // defines which part of the brain is activated by our MLP
         if(i == 0 && *outStor > 1000) // dont go past 13
             arr1[(size1 -1) - 4] = 'x';
         else if (i == 1 && *outStor > 1000)
