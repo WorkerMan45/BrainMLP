@@ -9,7 +9,7 @@ generic (	ramA: integer:=8;
 				oS	: integer:=16
 				); 
   port(
-    c_clk			 	: in std_logic;
+   	 c_clk			 	: in std_logic;
 	 
 	 num_Layers			: in std_logic_vector(7 downto 0); -- can hold 256 layers
 	 
@@ -97,7 +97,7 @@ end component storage_datapath;
 component pLayer 
 port
 (
-	perl_clk        		:in    	std_logic;
+	perl_clk        		:in    	std_logic; -- currently this clock does nothing
 
 	reg_wr				:in		std_logic;
 	reg_addr				:in  		std_logic_vector(layA-1 downto 0);  
