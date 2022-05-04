@@ -42,7 +42,7 @@ architecture rtl of de2_vga_raster is
 	component grebal_vga8_20x20 is
 	port (
 		clk, en : in std_logic;
-		addr : in unsigned(15 downto 0);
+		addr : in unsigned(15 downto 0); --Increase the size of the addr so it can call on the brain file
 		data : out unsigned(27 downto 0));
 	end component;
 	
@@ -109,12 +109,12 @@ architecture rtl of de2_vga_raster is
 
 	-- Sprite data interface
 	signal spr_address : unsigned (8 downto 0) := (others => '0');
-	signal spr_address1 : unsigned (15 downto 0) := (others => '0');
+	signal spr_address1 : unsigned (15 downto 0) := (others => '0'); --created a new signal to call the brain sprite
 	signal which_spr : unsigned(15 downto 0) := "0000000000000001";
 	--signal spr_select : std_logic_vector(3 downto 0) := "0000";
 	signal spr_data : unsigned(27 downto 0) := (others => '0');
 	signal sprite0_data, sprite1_data, sprite2_data, sprite3_data, sprite4_data : unsigned(27 downto 0) := (others => '0');
-	constant sprlen_x : integer := 202; 
+	constant sprlen_x : integer := 202; -- length and width of sprite
 	constant sprlen_y : integer := 249; -- length and width of sprite(s)
 	signal mult_result : unsigned (19 downto 0) := (others => '0');
 
